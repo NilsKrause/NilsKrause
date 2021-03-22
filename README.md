@@ -1,5 +1,5 @@
-### Hi there 👋
-
+![My Github stats](https://github-readme-stats.vercel.app/api?username=NilsKrause&theme=dracula)
+![My top laguages](https://github-readme-stats.vercel.app/api/top-langs?username=NilsKrause&theme=dracula)
 <!--
 **NilsKrause/NilsKrause** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
